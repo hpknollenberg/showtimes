@@ -3,18 +3,21 @@
     {
         "popcorn":
             {
+                "name": "popcorn",
                 "large": "7.00",
                 "medium": "6.00",
                 "small": "5.00"
             },
         "drinks":
             {
+                "name": "drinks",
                 "large": "6.00",
                 "medium": "5.50",
                 "small": "5.00"
             },
         "candy":
             {
+                "name": "candy",
                 "large": "5.00",
                 "medium": "4.50",
                 "small": "4.00"
