@@ -21,20 +21,5 @@
                 "small": "4.00"
             }
         ],
-   "drink_menu":
-   [
-      {
-         "name": "West 6th IPA"
-      },
-      {
-         "name": "West 6th Amber Ale"
-      },
-      {
-         "name": "West 6th Cocoa Porter"
-      },
-      {
-         "name": "West 6th Pennyrile Pale Ale"
-      }
-   ]
 }    
 
