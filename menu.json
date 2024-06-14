@@ -24,16 +24,28 @@
    [
       {
          "name": "West 6th IPA"
+         "price": "6.00"
       },
       {
          "name": "West 6th Amber Ale"
+         "price": "6.00"
       },
       {
          "name": "West 6th Cocoa Porter"
+         "price: "6.00"
       },
       {
          "name": "West 6th Pennyrile Pale Ale"
-      }
+         "price": "6.00"
+      },
+      {
+         "name": "Country Boy Cougar Bait"
+         "price": "5.50"
+      },
+      {
+         "name": "Country Boy Shotgun Wedding"
+         "price": "5.50"
+      },
    ]
 }    
 
