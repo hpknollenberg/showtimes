@@ -1,25 +1,39 @@
 {   
-   "menu_test" :
-    
-        [
-            {
-                "name": "popcorn",
-                "large": "7.00",
-                "medium": "6.00",
-                "small": "5.00"
-            },
-            {
-                "name": "drinks",
-                "large": "6.00",
-                "medium": "5.50",
-                "small": "5.00"
-            },
-            {
-                "name": "candy",
-                "large": "5.00",
-                "medium": "4.50",
-                "small": "4.00"
-            }
-        ]
+   "menu" :
+     [
+         {
+             "name": "popcorn",
+             "large": "7.00",
+             "medium": "6.00",
+             "small": "5.00"
+         },
+         {
+             "name": "drinks",
+             "large": "6.00",
+             "medium": "5.50",
+             "small": "5.00"
+         },
+         {
+             "name": "candy",
+             "large": "5.00",
+             "medium": "4.50",
+             "small": "4.00"
+         }
+     ],
+   "drink_menu":
+   [
+      {
+         "name": "West 6th IPA"
+      },
+      {
+         "name": "West 6th Amber Ale"
+      },
+      {
+         "name": "West 6th Cocoa Porter"
+      },
+      {
+         "name": "West 6th Pennyrile Pale Ale"
+      }
+   ]
 }    
 
