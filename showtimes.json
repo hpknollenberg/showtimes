@@ -5,66 +5,60 @@
         "movies": [
           {
             "name": "Eternals",
-            "link": "https://www.google.com/search?q=eternals&stick=H4sIAAAAAAAAAOPgVeLVT9c3NMwwrjCpMjQr3sTkxcXvmJtalJmcqO-cASTT86XYHEuLSzLzlLh4-QQ-OYpem3v4kBZTabGTEOfxdPvnz7yi2wTtDj-d0Ho9bpEXN8i4cmMTc4N0ywtMjItYOVJLUovyEnOKAQNvLyBsAAAA&sa=X&ved=2ahUKEwj04LCe3oj0AhVslGoFHVaVDqQQxyZ6BAgOEBM",
-            "showing": [
-              {
-                "time": [
+            "time": [
                   "3:15pm",
                   "6:45pm",
                   "7:15pm",
                   "8:15pm"
-                ],
-                "type": "Standard"
-              },
-              {
-                "time": [
-                  "12:45pm",
-                  "4:15pm",
-                  "7:45pm"
-                ],
-                "type": "IMAX"
-              },
-              {
-                "time": [
-                  "1:45pm",
-                  "5:15pm",
-                  "8:45pm"
-                ],
-                "type": "Dolby Cinema"
-              }
-            ]
+                ]
           },
           {
             "name": "Halloween Kills",
-            "link": "https://www.google.com/search?q=halloween+kills&stick=H4sIAAAAAAAAAOPgVeLVT9c3NMwwKbKwTIsv3MTkxcXvmJtalJmcqO-cASTT86XYHEuLSzLzlLh4-QQ-OYpem3v4kBZTabGTEOfxdPvnz7yi2wTtDj-d0Ho9bpEXN8i4cmMTc4N0ywtMjItY-TMSc3Lyy1NT8xSyM3NyigEXZc44cwAAAA&sa=X&ved=2ahUKEwj04LCe3oj0AhVslGoFHVaVDqQQxyZ6BAgOECI",
-            "showing": [
-              {
-                "time": [
+            "time": [
                   "1:50pm",
                   "4:30pm",
                   "8:45pm"
-                ],
-                "type": "Standard"
-              }
-            ]
+                ]
           },
           {
             "name": "Dune",
-            "link": "https://www.google.com/search?q=dune&stick=H4sIAAAAAAAAAOPgVeLVT9c3NEzLqko2ii8x2MTkxcXvmJtalJmcqO-cASTT86XYHEuLSzLzlLh4-QQ-OYpem3v4kBZTabGTEOfxdPvnz7yi2wTtDj-d0Ho9bpEXN8i4cmMTc4N0ywtMjItYWVJK81IBAokR8WgAAAA&sa=X&ved=2ahUKEwj04LCe3oj0AhVslGoFHVaVDqQQxyZ6BAgOECg",
-            "showing": [
-              {
-                "time": [
+            "time": [
                   "12:30pm",
                   "4:00pm",
                   "7:30pm"
-                ],
-                "type": "Standard"
-              }
-            ]
+                ]
           }
-
+        ]
+      },
+      {
+        "day": "tomorrow",
+        "movies": [
+          {
+            "name": "Eternals",
+            "time": [
+                  "3:15pm",
+                  "6:45pm",
+                  "7:15pm",
+                  "8:15pm"
+                ]
+          },
+          {
+            "name": "Halloween Kills",
+            "time": [
+                  "1:50pm",
+                  "4:30pm",
+                  "8:45pm"
+                ]
+          },
+          {
+            "name": "Dune",
+            "time": [
+                  "12:30pm",
+                  "4:00pm",
+                  "7:30pm"
+                ]
+          }
         ]
       }
-      
     ]
   }
